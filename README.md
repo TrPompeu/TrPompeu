@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @TrPompeu
 - 👀 I’m interested in aprender sobre o mundo do desenvolvimento web
--- 🌱 I’m currently learning  o básico  sobre o assunto
-- 💞️ I’m looking to collaborate no que for preciso para poder aprender
+-- 🌱 Atualmente estou aprendendo o básico sobre o assunto
+- 💞️ Procuro colaborar
+- 
+-   no que for preciso para poder aprender
+
 - 📫 How to reach me ...
 
 <!---
